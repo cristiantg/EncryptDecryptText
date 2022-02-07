@@ -1,0 +1,9 @@
+{
+    "languages": [
+        {
+            "tts_code": "et-EE",
+            "asr_code": "et-EE",
+            "mask_code": 8
+        }
+    ]
+}

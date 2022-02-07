@@ -1,0 +1,44 @@
+{
+    "languages": [
+        {
+            "tts_code": "en-US",
+            "asr_code": "en-US",
+            "mask_code": 1
+        },
+        {
+            "tts_code": "en-GB",
+            "asr_code": "en-GB",
+            "mask_code": 2
+        },
+        {
+            "tts_code": "es-ES",
+            "asr_code": "es-ES",
+            "mask_code": 3
+        },
+        {
+            "tts_code": "zh-CN",
+            "asr_code": "cmn-Hans-CN",
+            "mask_code": 4
+        },
+        {
+            "tts_code": "pt-BR",
+            "asr_code": "pt-BR",
+            "mask_code": 5
+        },
+        {
+            "tts_code": "pt-PT",
+            "asr_code": "pt-PT",
+            "mask_code": 6
+        },
+        {
+            "tts_code": "de-DE",
+            "asr_code": "de-DE",
+            "mask_code": 7
+        },
+        {
+            "tts_code": "et-EE",
+            "asr_code": "et-EE",
+            "mask_code": 8
+        }
+    ]
+}
