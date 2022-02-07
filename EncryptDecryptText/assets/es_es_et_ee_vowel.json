@@ -1,0 +1,32 @@
+[{
+        "timer": "420000",
+        "id": "et_ee_vowel_1",
+        "name": "i, y",
+        "short_name": "iks, üks",
+        "rounds": 8,
+        "pairs": [{
+                "hints_es-ES": ["La /i/ se pronuncia igual .....", "Eleva ..."],
+                "words": [{
+                        "word": "iks",
+                        "url": "",
+                        "trans": "ikːs",
+                        "more": ["x"]
+                }, {
+                        "word": "kips",
+                        "url": "",
+                        "trans": "kipːs"
+                }]
+        }, {
+                "hints_es-ES": ["La /y/ se pron......", "La /y/ ..."],
+                "words": [{
+                        "word": "üks",
+                        "url": "",
+                        "trans": "ykːs",
+                        "more": ["1"]
+                }, {
+                        "word": "küps",
+                        "url": "",
+                        "trans": "kypːs"
+                }]
+        }]
+}]
