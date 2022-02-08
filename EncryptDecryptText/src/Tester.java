@@ -25,8 +25,8 @@ public class Tester {
 		final String suffix = "_encrypted";
 		final ArrayList<String> filesPath = new ArrayList<String>();
 		// Here we add as many files as we want to encrypt
-		filesPath.add("./assets/es_es_et_ee_vowel.json");
-		filesPath.add("./assets/languages.json");
+		filesPath.add("/home/ctejedor/python-scripts/ee/EncryptDecryptText/EncryptDecryptText/assets/es_es_et_ee_vowel.json");
+		filesPath.add("/home/ctejedor/python-scripts/ee/EncryptDecryptText/EncryptDecryptText/assets/languages.json");
 		// filesPath.add("OTHER_PATH");
 		
 		String encrypted_key = "";
